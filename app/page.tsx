@@ -298,7 +298,7 @@ export default function Home() {
                 <div className="bg-black/20 rounded-2xl p-6 border border-white/10">
 
                   <p className="text-sm text-blue-100 mb-3">
-                    人生インパクト
+                    人生への影響
                   </p>
 
                   <p className="text-5xl font-black mb-4">
